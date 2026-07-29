@@ -84,4 +84,4 @@ Como este projeto foi desenvolvido no início da graduação, hoje identifico di
 - Correção de pequenas inconsistências encontradas durante revisões posteriores do código.
 - Interface de terminal mais amigável.
 
-Apesar dessas possíveis melhorias, optei por manter o projeto praticamente em seu estado original por representar meu aprendizado naquele momento da graduação.
+Apesar dessas possíveis melhorias, optei por preservar o projeto praticamente como foi desenvolvido durante o segundo semestre da graduação, realizando apenas pequenas correções necessárias para funcionamento.
